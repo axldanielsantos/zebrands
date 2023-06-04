@@ -1,3 +1,7 @@
+# Zebrands scraper
+
+Mercado Libre scraper to extract prices, availability and other attributes.
+
 ## Getting started
 
 Make sure you have installed.
